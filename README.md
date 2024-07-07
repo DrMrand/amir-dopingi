@@ -14,4 +14,6 @@ D:\game\untitled10\res\
 سپس وقتی آدرس رو کپی کردید وارد کلاس player.cpp بشید بعدش در تابع path آدرس رو در متغیر PathRes قرار دهید.
 
 4. در نهایت بازی رو اجرا کنید
+
+# تصویری از محیط بازی
 ![Screenshot (209)](https://github.com/DrMrand/amir-dopingi/assets/174233441/106abfa1-ef89-4fa7-b6a0-22d63767c144)
